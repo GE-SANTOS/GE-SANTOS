@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Olá tudo bem✌
+ ##Sou Geovane
+ -Moro em Salvador-BA:brasil::óculos de sol:
+ -Sou formado em Analise e Desenvolvimento de Sistemas:computador:
 <!--
 **GE-SANTOS/GE-SANTOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
