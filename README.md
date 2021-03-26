@@ -7,7 +7,9 @@
 ##  Conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/geovanenascimento/" target="_blank">
-![image](https://user-images.githubusercontent.com/81385396/112668713-980bee00-8e3d-11eb-8e93-969262ea8fd4.png)
+<img align="center" alt="geovane-linkedin" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"
+style="max-width:100%;">
+</a>
 
 
 
