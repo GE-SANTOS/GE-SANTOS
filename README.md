@@ -5,6 +5,5 @@
 - Ultimamente estou estudando javascript
 
 ##  Conecte-se comigo:
-<a href="https://www.linkedin.com/in/geovanenascimento/" target="_blank">
-<img align = "center" alt = "geovane-linkedin" height = "30" width = "40" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin .svg "style =" largura máxima: 100%; ">
+[! [ Emblema do Linkedin ] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geovanenascimento/)] (https://www.linkedin.com/in/geovanenascimento/)
 
