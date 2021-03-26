@@ -2,7 +2,7 @@
 ## Sou Geovane                                                          
 - Eu moro em Salvador-BA :sunglasses:
 - Sou formado em Analise e  Desenvolvimento de Sistemas 💻
-- Ultimamente estou estudando javascript : sparkling_heart :
+- Ultimamente estou estudando javascript
 
 ##  Conecte-se comigo:
 <a href="https://www.linkedin.com/in/geovanenascimento/" target="_blank">
