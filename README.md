@@ -5,8 +5,7 @@
 - Ultimamente estou estudando javascript
 ##  Conecte-se comigo:
 <a href="https://www.linkedin.com/in/geovanenascimento/" target="_blank">
-<img align="center" alt="geovane-linkedin" height="58" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"
+<img align="center" alt="geovane-linkedin" height="98" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"
 style="max-width:100%;">
 </a>
-
 
