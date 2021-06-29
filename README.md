@@ -8,7 +8,7 @@ style="max-width:100%;">
 
 👨‍🎓Sou formado em Analise e Desenvolvimento de Sistemas💻
 
-👨🏾‍💻 Atualmente estou estudando Javascript
+👨🏾‍💻Quero ser um Dev!!!
 
 ## Conhecimentos em:
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt = "rails" width = "40" height = "40" style = "largura máxima: 100%;"> </img><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "github" width = "40" height = "40" style = "max -largura: 100%; "> </img><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt = "github" width = "40" height = "40" style = "max -largura: 100%; "> </img><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt = "github" width = "40" height = "40" style = "max -largura: 100%; "> </img><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "github" width = "40" height = "40" style = "max -largura: 100%; "> </img><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "github" width = "40" height = "40" style = "max -largura: 100%; "> </img><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt = "github" width = "40" height = "40" style = "max -largura: 100%; "> </img>
